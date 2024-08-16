@@ -1,14 +1,20 @@
 {
-  "application": [
+  "application": {
     "name": "ExampleApp",
-    "current_version": "2.1.0",
-    "previous_version": "2.0.5",
-    "download_url": "https://example.com/download",
-    "release_date": "2024-08-16",
-    "changelog_url": "https://example.com/changelog",
+    "version": {
+      "current": "2.1.0",
+      "previous": "2.0.5"
+    },
+    "download": {
+      "url": "https://example.com/download",
+      "checksum": "abc123def456ghi789jkl012mno345pqr678stu901vwx234yz567",
+      "size": "50MB"
+    },
+    "release": {
+      "date": "2024-08-16",
+      "changelog_url": "https://example.com/changelog"
+    },
     "description": "ExampleApp is a sample application for demonstrating JSON structure.",
-    "size": "50MB",
-    "checksum": "abc123def456ghi789jkl012mno345pqr678stu901vwx234yz567",
-    "supported_os": {"Windows", "macOS", "Linux"}
-  ]
+    "supported_os": ["Windows", "macOS", "Linux"]
+  }
 }
