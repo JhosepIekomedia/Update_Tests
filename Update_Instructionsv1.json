@@ -1,13 +1,13 @@
 {
   "application": {
     "name": "APMS",
-    "current_version": "0.0",
-    "previous_version": "0.1"
+    "current_version": "0.0.1",
+    "previous_version": "0.0.0"
   },
   "download": {
     "url": "https://example.com/download",
     "checksum": "abc123def456ghi789jkl012mno345pqr678stu901vwx234yz567",
-    "size": "00MB"
+    "size": "100MB"
   },
   "release": {
     "date": "2024-08-16",
