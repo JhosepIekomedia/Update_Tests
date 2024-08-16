@@ -1,9 +1,12 @@
 {
-  "application": {
-    "name": "APMS",
-    "current_version": "0.0.1",
-    "previous_version": "0.0.0"
-  },
+  "application": [
+    {
+      "name": "APMS",
+      "current_version": "0.0.1",
+      "previous_version": "0.0.0"
+      "icon": "09d"
+    }
+  ],
   "download": {
     "url": "https://example.com/download",
     "checksum": "abc123def456ghi789jkl012mno345pqr678stu901vwx234yz567",
