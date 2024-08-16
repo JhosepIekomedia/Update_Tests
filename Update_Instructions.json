@@ -1,5 +1,5 @@
 {
-  "application": {
+  "application": [
     "name": "ExampleApp",
     "current_version": "2.1.0",
     "previous_version": "2.0.5",
@@ -9,6 +9,6 @@
     "description": "ExampleApp is a sample application for demonstrating JSON structure.",
     "size": "50MB",
     "checksum": "abc123def456ghi789jkl012mno345pqr678stu901vwx234yz567",
-    "supported_os": ["Windows", "macOS", "Linux"]
-  }
+    "supported_os": {"Windows", "macOS", "Linux"}
+  ]
 }
