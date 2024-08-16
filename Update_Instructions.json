@@ -15,6 +15,6 @@
       "changelog_url": "https://example.com/changelog"
     },
     "description": "ExampleApp is a sample application for demonstrating JSON structure.",
-    "supported_os": ["Windows", "macOS", "Linux"]
+    "supported_os": "Android"
   }
 }
